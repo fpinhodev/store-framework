@@ -20,7 +20,8 @@
       "callToActionText": "Explore",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "textPosition": "right",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "vintage"
     }
   },
   "info-card#button-left": {
@@ -31,7 +32,8 @@
       "callToActionText": "Go to Collection",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "textPosition": "left",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "metal"
     }
   }
 }
